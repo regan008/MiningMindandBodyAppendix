@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    pandoc-ruby (2.0.0)
+    rake (11.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pandoc-ruby
+  rake
+
+BUNDLED WITH
+   1.11.2
