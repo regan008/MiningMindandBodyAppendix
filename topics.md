@@ -1,7 +1,6 @@
 ---
 layout: page
 title: All Topics
-permalink: /alltopics/
 ---
 
 This page is a work in progress. All topic visualizations coming soon.
