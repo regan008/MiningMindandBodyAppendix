@@ -20,5 +20,3 @@ pandoc:
   extensions:
     - smart
 plugins_dir: plugins
-sass:
-    sass_dir: _sass
