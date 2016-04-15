@@ -2,7 +2,42 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+.figure{
+  .thumbnail {
+  margin-right: 15px;
+  margin-bottom: 10px;
+} }
+.figure {
+  float: left;
+}
+h2 {
+  clear: left;
+}
+.caption {
+  font-size: 70%;
+  clear: both;
+}
+.figure-right {
+    float: right;
+    .thumbnail {
+      margin-left: 15px;
+      margin-bottom: 10px;
+    }
+    .caption {
+      margin-left: 15px;
+    }
+}
 
+$header-font-family: "Open Sans", Helvetica, Roboto, Arial, sans-serif !default;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+body {
+  margin-top: 30px;
+}
+h2 {
+  font-size: 1.9375rem;
+}
 
 
 // Our variables
