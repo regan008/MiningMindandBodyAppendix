@@ -9,8 +9,8 @@
 title: Mining Mind and Body
 email: aregan2@gmu.edu
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://regan008.github.io/test/" # the base hostname & protocol for your site
+baseurl: "/MiningMindandBodyAppendix" # the subpath of your site, e.g. /blog
+url: "http://regan008.github.io/MiningMindandBodyAppendix/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
